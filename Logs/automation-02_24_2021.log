@@ -1,0 +1,7 @@
+02-24-2021 03:03:26 PM: INFO: ************** Test_Search_Restaurants **************
+02-24-2021 03:03:26 PM: INFO: Starting search restaurant test
+02-24-2021 03:03:27 PM: INFO: Opening application URL
+02-24-2021 03:03:35 PM: INFO: Entering zipcode and clicking on search button
+02-24-2021 03:03:44 PM: INFO: AR51 1AA is present in the location heading: AR51 1AA, Area51
+02-24-2021 03:03:45 PM: INFO: Number of open restaurants: 1545
+02-24-2021 03:03:45 PM: INFO: Restaurant list is displayed, Test Passed
